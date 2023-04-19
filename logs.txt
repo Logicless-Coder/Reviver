@@ -1,0 +1,9 @@
+T1.start
+T2.start
+T1.commit
+T3.start
+checkpoint T2 T3
+T4.start
+T2.commit
+T5.start
+T5.commit
